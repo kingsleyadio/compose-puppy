@@ -1,0 +1,659 @@
+[
+    {
+        "age": "Baby",
+        "breed": "Chihuahua",
+        "coat": "Short",
+        "color": "Black",
+        "description": "Meet Barnabas! Barnabas is a 1 year old puppy who just arrived from our southwest shelter partner. He is loving, playful, and a great companion.\n\nHis foster mom says: \"Overall Barnabas (a.k.a. Barney!) is the sweetest, most lovable dog and anyone would be lucky to bring him into their home!\"",
+        "distance": 8.5979,
+        "gender": "Male",
+        "id": 50687636,
+        "name": "Barnabas",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687636/1/?bust=1614516620&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687636/1/?bust=1614516620&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687636/1/?bust=1614516620&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687636/2/?bust=1614516639&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687636/2/?bust=1614516639&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687636/2/?bust=1614516639&width=100"
+            }
+        ],
+        "size": "Small",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/barnabas-50687636/ny/brooklyn/true-north-pet-rescue-mission-ny1520/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Baby",
+        "breed": "Terrier",
+        "coat": "Medium",
+        "color": "Apricot / Beige",
+        "description": "Meet Jetco! Jetco is a 1 year old terrier puppy who is about 40 pounds. He is a social butterfly and loves other dogs and people. Jetco is house broken, crate trained, and walks well on leash.\n\nJetco is low shedding.",
+        "distance": 8.5979,
+        "gender": "Male",
+        "id": 50687530,
+        "name": "Jetco",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/1/?bust=1614515912&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/1/?bust=1614515912&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/1/?bust=1614515912&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/2/?bust=1614515916&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/2/?bust=1614515916&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/2/?bust=1614515916&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/3/?bust=1614515922&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/3/?bust=1614515922&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/3/?bust=1614515922&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/4/?bust=1614515923&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/4/?bust=1614515923&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687530/4/?bust=1614515923&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/jetco-50687530/ny/brooklyn/true-north-pet-rescue-mission-ny1520/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Adult",
+        "breed": "Labrador Retriever",
+        "coat": "Short",
+        "color": "",
+        "description": "Meet Max! Max is a 5 year old lab mix who came to us from our Southwest shelter partner. Max is doing well in his foster home and loves to cuddle on the couch and take long walks.",
+        "distance": 8.5979,
+        "gender": "Male",
+        "id": 50687525,
+        "name": "Max",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687525/1/?bust=1614515672&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687525/1/?bust=1614515672&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687525/1/?bust=1614515672&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687525/2/?bust=1614515681&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687525/2/?bust=1614515681&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687525/2/?bust=1614515681&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/max-50687525/ny/brooklyn/true-north-pet-rescue-mission-ny1520/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Senior",
+        "breed": "Australian Cattle Dog / Blue Heeler",
+        "coat": "Short",
+        "color": "",
+        "description": "Heeley is a 10 year old Australian Cattle Dog that ended up at the shelter after his owner passed away. He is a perfectly behaved, easy going, trained dog. He is house trained, great on leash, and loves to be around humans of all ages.",
+        "distance": 8.5979,
+        "gender": "Male",
+        "id": 50687521,
+        "name": "Heeley",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687521/3/?bust=1614515280&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687521/3/?bust=1614515280&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687521/3/?bust=1614515280&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687521/1/?bust=1614515263&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687521/1/?bust=1614515263&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687521/1/?bust=1614515263&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687521/2/?bust=1614515280&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687521/2/?bust=1614515280&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687521/2/?bust=1614515280&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/heeley-50687521/ny/brooklyn/true-north-pet-rescue-mission-ny1520/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Young",
+        "breed": "Boxer",
+        "coat": "Short",
+        "color": "Red / Chestnut / Orange",
+        "description": "Meet Ginger Rogers! Ginger is a 4 year old Boxer who recently arrived from our Southwest Shelter partner.\n\nHer foster mom says: \"Ginger is super affectionate towards all humans male and female. She loves to cuddle, gives kisses, sleeping on her bed and on the couch.\"",
+        "distance": 8.5979,
+        "gender": "Female",
+        "id": 50687515,
+        "name": "Ginger Rogers",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687515/2/?bust=1614514924&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687515/2/?bust=1614514924&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687515/2/?bust=1614514924&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687515/1/?bust=1614514923&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687515/1/?bust=1614514923&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687515/1/?bust=1614514923&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/ginger-rogers-50687515/ny/brooklyn/true-north-pet-rescue-mission-ny1520/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Baby",
+        "breed": "Beagle",
+        "coat": "",
+        "color": "",
+        "description": "You can fill out an adoption application online on our official website.\nQuentin (AL) is a male--and we're guessing here--Beagle mix rescued in Alabama. Our veterinary partner estimates that Quentin is 8 weeks old at the time of intake in February 2021. Quentin is good with people of all ages and other dogs. Quentin came into rescue with his Momma and siblings. He looks nothing like his Momma, who we are guessing might be a Beagle mix, so Quentin's Momma's pic is in the photos so you can judge for yourself! This very handsome, adorable boy is single and available and he's looking for love!",
+        "distance": 4.8239,
+        "gender": "Male",
+        "id": 50687519,
+        "name": "Quentin (AL)",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687519/1/?bust=1614515488&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687519/1/?bust=1614515488&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687519/1/?bust=1614515488&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687519/2/?bust=1614515551&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687519/2/?bust=1614515551&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687519/2/?bust=1614515551&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687519/3/?bust=1614515613&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687519/3/?bust=1614515613&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687519/3/?bust=1614515613&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/quentin-al-50687519/ny/new-york/rescue-dogs-rock-nyc-ny1274/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Baby",
+        "breed": "Beagle",
+        "coat": "",
+        "color": "",
+        "description": "You can fill out an adoption application online on our official website.\nQuake (AL) is a male--and we're guessing here--Beagle mix rescued in Alabama. Our veterinary partner estimates that Quake is 8 weeks old at the time of intake in February 2021. Quake is good with people of all ages and other dogs. Quake came into rescue with his Momma and siblings. He looks nothing like his Momma, who we are guessing might be a Beagle mix, so Quake's Momma's pic is in the photos so you can judge for yourself! Quake is a handsome, super cute boy who will steal your heart away",
+        "distance": 4.8239,
+        "gender": "Male",
+        "id": 50687517,
+        "name": "Quake (AL)",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687517/1/?bust=1614515551&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687517/1/?bust=1614515551&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687517/1/?bust=1614515551&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687517/2/?bust=1614515488&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687517/2/?bust=1614515488&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687517/2/?bust=1614515488&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687517/3/?bust=1614515488&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687517/3/?bust=1614515488&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687517/3/?bust=1614515488&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/quake-al-50687517/ny/new-york/rescue-dogs-rock-nyc-ny1274/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Baby",
+        "breed": "Beagle",
+        "coat": "",
+        "color": "",
+        "description": "You can fill out an adoption application online on our official website.Quillie (AL) is a female--and we're guessing here--Beagle mix rescued in Alabama. Our veterinary partner estimates that Quillie is 8 weeks old at the time of intake in February 2021. Quillie is good with people of all ages and other dogs. Quillie looks nothing like her Momma, who we are guessing might be a Beagle mix, so Quillie's Momma's pic is in the photos so you can judge for yourself! Quillie is adorable and sweet and super cute--how can you resist her?",
+        "distance": 4.8239,
+        "gender": "Female",
+        "id": 50687518,
+        "name": "Quillie (AL)",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687518/1/?bust=1614515489&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687518/1/?bust=1614515489&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687518/1/?bust=1614515489&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687518/2/?bust=1614515551&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687518/2/?bust=1614515551&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687518/2/?bust=1614515551&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687518/3/?bust=1614515612&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687518/3/?bust=1614515612&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687518/3/?bust=1614515612&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/quillie-al-50687518/ny/new-york/rescue-dogs-rock-nyc-ny1274/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Baby",
+        "breed": "Terrier",
+        "coat": "Short",
+        "color": "Apricot / Beige",
+        "description": "Meet Buggy! Buggy is a 7 month old terrier mix puppy! Her foster mom says she is very loving and her tail is always wagging! She loves to find a comfy warm spot to snuggle.",
+        "distance": 8.5979,
+        "gender": "Female",
+        "id": 50687511,
+        "name": "Buggy",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687511/2/?bust=1614514694&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687511/2/?bust=1614514694&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687511/2/?bust=1614514694&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687511/1/?bust=1614514646&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687511/1/?bust=1614514646&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687511/1/?bust=1614514646&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687511/3/?bust=1614514770&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687511/3/?bust=1614514770&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687511/3/?bust=1614514770&width=100"
+            }
+        ],
+        "size": "Small",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/buggy-50687511/ny/brooklyn/true-north-pet-rescue-mission-ny1520/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Young",
+        "breed": "Labrador Retriever",
+        "coat": "Short",
+        "color": "Apricot / Beige",
+        "description": "Meet Annie Lou! Annie Lou is a 6 month old lab mix from the Bahamas. She is gaining confidence everyday with city sounds, new people, and new dogs. She does well with slow introductions to other dogs and people and enjoys being an only dog.",
+        "distance": 8.5979,
+        "gender": "Female",
+        "id": 50687504,
+        "name": "Annie Lou",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687504/3/?bust=1614513922&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687504/3/?bust=1614513922&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687504/3/?bust=1614513922&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687504/1/?bust=1614513745&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687504/1/?bust=1614513745&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687504/1/?bust=1614513745&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687504/2/?bust=1614513814&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687504/2/?bust=1614513814&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687504/2/?bust=1614513814&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/annie-lou-50687504/ny/brooklyn/true-north-pet-rescue-mission-ny1520/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Baby",
+        "breed": "Shepherd",
+        "coat": "Short",
+        "color": "Gray / Blue / Silver",
+        "description": "Meet Shell! Shell is a 3.5 month old Northern Inuit Puppy who just arrived from our southwest shelter partner. She is a playful happy puppy who will be about 40 pounds full grown!",
+        "distance": 8.5979,
+        "gender": "Female",
+        "id": 50687379,
+        "name": "Shell",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/1/?bust=1614512105&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/1/?bust=1614512105&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/1/?bust=1614512105&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/2/?bust=1614512115&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/2/?bust=1614512115&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/2/?bust=1614512115&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/3/?bust=1614512125&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/3/?bust=1614512125&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/3/?bust=1614512125&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/4/?bust=1614512138&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/4/?bust=1614512138&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50687379/4/?bust=1614512138&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/shell-50687379/ny/brooklyn/true-north-pet-rescue-mission-ny1520/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Young",
+        "breed": "Wirehaired Terrier",
+        "coat": "",
+        "color": "Bicolor",
+        "description": "Handsome Billy is a 21lb 2 year old Terrier mix. This cutie is dog friendly (in fact he's been in foster with 9 other dogs of all sizes and done great!) and is already housebroken.  He loves to climb up on things and look out. His foster mom had a large box he jumped on top of and he just loved it!  His funny personality will definitely keep you laughing!",
+        "distance": 3.7861,
+        "gender": "Male",
+        "id": 50685146,
+        "name": "Billy",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/2/?bust=1614483654&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/2/?bust=1614483654&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/2/?bust=1614483654&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/1/?bust=1614483652&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/1/?bust=1614483652&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/1/?bust=1614483652&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/3/?bust=1614483655&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/3/?bust=1614483655&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/3/?bust=1614483655&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/4/?bust=1614483658&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/4/?bust=1614483658&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50685146/4/?bust=1614483658&width=100"
+            }
+        ],
+        "size": "Small",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/billy-50685146/nj/jersey-city/joyrides-rescue-tx2151/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Baby",
+        "breed": "Shepherd",
+        "coat": "",
+        "color": "Brindle",
+        "description": "The story of lucky Duffy from Belarus ??\nDuffy is one of a million dogs from the streets of Belarus. She was born and lived her life as a stray/street dog in a suburban area of Minsk. Her life could have ended very quickly because of wolves in the area and shooting dog services. Shooting dog services is a government agency in Belarus which is responsible for shooting stray dogs instead of euthanizing them. After they shoot the dogs they just leave their bodies to rot in the streets. However, this world is not without kind people who love animals and will do their best to save them. One of them is Alla which lives in USA and went to Belarus to visit her parents. Alla happened to meet Duffy and this poor dog's eyes and couldn't leave her there to face the reality of the world. She called us and ask if we will be able to help, and we could not say no. Alla brought her to New York two days ago. Today, Duffy saw our vet and her team at Animal Clinic of Bay Ridge. She will be ready for adoption soon. She is very smart, beautiful and calm. Duffy is also good with cats and other dogs! If you are interested, please fill out the adoption application below",
+        "distance": 9.6848,
+        "gender": "Female",
+        "id": 50684592,
+        "name": "DUFFY",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/3/?bust=1614476533&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/3/?bust=1614476533&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/3/?bust=1614476533&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/1/?bust=1614476527&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/1/?bust=1614476527&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/1/?bust=1614476527&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/2/?bust=1614476531&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/2/?bust=1614476531&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/2/?bust=1614476531&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/4/?bust=1614476533&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/4/?bust=1614476533&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684592/4/?bust=1614476533&width=100"
+            }
+        ],
+        "size": "Small",
+        "tags": [
+            "SUPER SMART",
+            "POLITE",
+            "SUPER FRIENDLY",
+            "A DOG YOU NEVER HAD BEFORE"
+        ],
+        "url": "https://www.petfinder.com/dog/duffy-50684592/ny/brooklyn/american-alliance-for-protection-of-animals-ny1483/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Adult",
+        "breed": "Cocker Spaniel",
+        "coat": "Medium",
+        "color": "Apricot / Beige",
+        "description": "Please meet Frankie, a 6 (approx) year old cocker spaniel. Frankie is a very friendly boy who went through a lot of stress because his owner was murdered back in September in Bay Ridge. Frankie is neutered and up to dates with his shots. He is like a little baby who will cuddle and sleep with you. Please find a place in your heart and open your home to him so he can shower you with love! ? To adopt Frankie fill out application below.",
+        "distance": 9.6848,
+        "gender": "Male",
+        "id": 50684564,
+        "name": "FRANKIE",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/4/?bust=1614476057&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/4/?bust=1614476057&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/4/?bust=1614476057&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/1/?bust=1614476050&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/1/?bust=1614476050&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/1/?bust=1614476050&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/2/?bust=1614476054&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/2/?bust=1614476054&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/2/?bust=1614476054&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/3/?bust=1614476054&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/3/?bust=1614476054&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/3/?bust=1614476054&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/5/?bust=1614476080&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/5/?bust=1614476080&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50684564/5/?bust=1614476080&width=100"
+            }
+        ],
+        "size": "Small",
+        "tags": [
+            "SWEET",
+            "CUDDLE BUG",
+            "SUPER FRIENDLY"
+        ],
+        "url": "https://www.petfinder.com/dog/frankie-50684564/ny/brooklyn/american-alliance-for-protection-of-animals-ny1483/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Senior",
+        "breed": "American Staffordshire Terrier",
+        "coat": "Short",
+        "color": "Gray / Blue / Silver",
+        "description": "King is a mushy, senior sweetheart...but, don’t be fooled by his age; he has a ton of spunk! He is goofy, affectionate and can't contain his excitement when he sees a leash or toy come out!\n\nThis 9 year old, 65 lb pitbull mix found himself timestamped at the NYCACC after being surrendered by the only family he'd ever known. According to his history, they described him as energetic and playful, loves fetch and tug of war, and being out in the yard or taken on brisk walks/jogs.",
+        "distance": 3.649,
+        "gender": "Male",
+        "id": 50681914,
+        "name": "King",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/1/?bust=1614462764&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/1/?bust=1614462764&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/1/?bust=1614462764&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/2/?bust=1614462783&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/2/?bust=1614462783&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/2/?bust=1614462783&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/3/?bust=1614462803&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/3/?bust=1614462803&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/3/?bust=1614462803&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/4/?bust=1614462817&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/4/?bust=1614462817&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/4/?bust=1614462817&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/5/?bust=1614462838&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/5/?bust=1614462838&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681914/5/?bust=1614462838&width=100"
+            }
+        ],
+        "size": "Large",
+        "tags": [
+            "playful",
+            "smart",
+            "knows commands",
+            "crate trained",
+            "well behaved when home alone",
+            "mild mannered",
+            "moderate energy"
+        ],
+        "url": "https://www.petfinder.com/dog/king-50681914/nj/jersey-city/amsterdog-ny1100/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Young",
+        "breed": "Black Labrador Retriever",
+        "coat": "",
+        "color": "Black",
+        "description": "Who knows if Bling Empire's Kelly LI will make it with Red Power Ranger Andrew Gray, we do know this 50lb, 1 year old black lab mix much like her namesake is not going to let anyone stand in her way. She's a boss babe and deserves all the love and respect. She is spayed, up to date on vaccines and microchipped",
+        "distance": 2.0944,
+        "gender": "Female",
+        "id": 50681944,
+        "name": "Kelly Li",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681944/1/?bust=1614465928&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681944/1/?bust=1614465928&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681944/1/?bust=1614465928&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681944/2/?bust=1614465931&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681944/2/?bust=1614465931&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681944/2/?bust=1614465931&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/kelly-li-50681944/nj/jersey-city/see-spot-rescued-nj708/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Young",
+        "breed": "Australian Cattle Dog / Blue Heeler",
+        "coat": "",
+        "color": "Black",
+        "description": "Introducing Bling Empire's @kevin.kreider - an Australian Cattle dog mix that is 1 year old and 40lbs. He is down to earth, cuddly, great on leash and house trained. Unlike the other cast members Kevin didn't come from money but he is grateful for his friends and most of all for his family. Whoever takes this hunk home will be one lucky person ! He is neutered, up to date on vaccines and microchipped",
+        "distance": 2.0944,
+        "gender": "Male",
+        "id": 50681942,
+        "name": "Kevin Kreider",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/1/?bust=1614458745&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/1/?bust=1614458745&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/1/?bust=1614458745&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/3/?bust=1614458741&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/3/?bust=1614458741&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/3/?bust=1614458741&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/5/?bust=1614465929&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/5/?bust=1614465929&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/5/?bust=1614465929&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/2/?bust=1614458806&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/2/?bust=1614458806&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/2/?bust=1614458806&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/4/?bust=1614465929&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/4/?bust=1614465929&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/4/?bust=1614465929&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/6/?bust=1614465930&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/6/?bust=1614465930&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681942/6/?bust=1614465930&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/kevin-kreider-50681942/nj/jersey-city/see-spot-rescued-nj708/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Young",
+        "breed": "Great Pyrenees",
+        "coat": "",
+        "color": "White / Cream",
+        "description": "Bling Empire's @annashay93 is the show's idiosyncratic heiress. This 1 year old, 55 pls Great Pyrenees mix is generous of heart, loyal to her friends, and will gladly accompany you on shopping trips to Paris or Target for your birthday. She is spayed, up to date on vaccines and microchipped",
+        "distance": 2.0944,
+        "gender": "Female",
+        "id": 50681943,
+        "name": "Anna Shay",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681943/1/?bust=1614458805&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681943/1/?bust=1614458805&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681943/1/?bust=1614458805&width=100"
+            }
+        ],
+        "size": "Medium",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/anna-shay-50681943/nj/jersey-city/see-spot-rescued-nj708/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Young",
+        "breed": "Chihuahua",
+        "coat": "",
+        "color": "White / Cream",
+        "description": "You'll be quick to fall in love with Colin Bridgerton's swoon-worthy eyes! He's young, but his sense of humor and desire for adventure will sweep anyone off their feet. Don't hesitate to make Colin a part of your family...he'll quickly fall madly in love with you!",
+        "distance": 2.0944,
+        "gender": "Male",
+        "id": 50681941,
+        "name": "Colin Bridgerton",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681941/1/?bust=1614458865&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681941/1/?bust=1614458865&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681941/1/?bust=1614458865&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681941/2/?bust=1614458742&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681941/2/?bust=1614458742&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681941/2/?bust=1614458742&width=100"
+            }
+        ],
+        "size": "Small",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/colin-bridgerton-50681941/nj/jersey-city/see-spot-rescued-nj708/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    },
+    {
+        "age": "Young",
+        "breed": "Miniature Pinscher",
+        "coat": "",
+        "color": "Black",
+        "description": "Bling Empire's Cherie Chan @cherieofficial gave up a pop star life for a quiet family life, and thats what this 10lb 6 month old min pin mix is hoping for too ! She is spayed, up to date on vaccines and microchipped",
+        "distance": 2.0944,
+        "gender": "Female",
+        "id": 50681130,
+        "name": "Cherie Chan",
+        "photos": [
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681130/1/?bust=1614455134&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681130/1/?bust=1614455134&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681130/1/?bust=1614455134&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681130/2/?bust=1614458740&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681130/2/?bust=1614458740&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681130/2/?bust=1614458740&width=100"
+            },
+            {
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681130/3/?bust=1614455132&width=600",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681130/3/?bust=1614455132&width=300",
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50681130/3/?bust=1614455132&width=100"
+            }
+        ],
+        "size": "Small",
+        "tags": [],
+        "url": "https://www.petfinder.com/dog/cherie-chan-50681130/nj/jersey-city/see-spot-rescued-nj708/?referrer_id=119bfb5a-9be1-46dd-b566-523050eb66d5"
+    }
+]

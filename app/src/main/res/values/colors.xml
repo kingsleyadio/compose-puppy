@@ -10,6 +10,13 @@
   the License.
   -->
 <resources>
+    <color name="orange500">#fb8c00</color>
+    <color name="orange200">#ffbd45</color>
+    <color name="orange700">#c25e00</color>
+    <color name="grey500">#757575</color>
+    <color name="grey200">#a4a4a4</color>
+    <color name="grey700">#494949</color>
+
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
